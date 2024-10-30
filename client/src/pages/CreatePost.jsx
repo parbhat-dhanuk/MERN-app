@@ -105,10 +105,12 @@ export default function CreatePost() {
             <option value='uncategorized'>Select a category</option>
             <option value='javascript'>JavaScript</option>
             <option value='reactjs'>React.js</option>
-            <option value='reactjs'>TypeScript</option>
-            <option value='nextjs'>Node.js</option>
-            <option value='nextjs'>Laravel</option>
-            <option value='nextjs'>Django</option>
+            <option value='Typescript'>TypeScript</option>
+            <option value='Node.js'>Node.js</option>
+            <option value='Laravel'>Laravel</option>
+            <option value='Django'>Django</option>
+            <option value='Next.js'>Next.js</option>
+            <option value='ReactNative'>ReactNative</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>

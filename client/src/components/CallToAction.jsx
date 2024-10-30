@@ -17,7 +17,7 @@ export default function CallToAction() {
             </Button>
         </div>
         <div className="p-7 flex-1">
-            <img src="https://legiit-service.s3.amazonaws.com/b5daa16ed12eba06745d99c0d49ebb26/4528ae8473cf7b3f0e508da17c70f76a.png" />
+            <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1" />
         </div>
     </div>
   )
