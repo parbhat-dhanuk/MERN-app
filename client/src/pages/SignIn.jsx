@@ -48,10 +48,10 @@ export default function SignIn() {
         {/* left */}
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
-            <span className='px-2 py-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg text-white'>
-              Coding
+            <span className='px-2 py-1 bg-gradient-to-r font-bold from-cyan-500 to-blue-500  rounded-lg text-white'>
+              Coding   Nepal
             </span>
-            Nepal
+          
           </Link>
           <p className='text-sm mt-5'>
              You can sign in with your email and password
@@ -66,7 +66,7 @@ export default function SignIn() {
               <Label value='Your email' />
               <TextInput
                 type='email'
-                placeholder='name@company.com'
+                placeholder='name@gmail.com'
                 id='email'
                 onChange={handleChange}
               />
@@ -81,7 +81,7 @@ export default function SignIn() {
               />
             </div>
             <Button
-              gradientDuoTone='purpleToPink'
+             className='bg-blue-600'
               type='submit'
               disabled={loading}
             >
