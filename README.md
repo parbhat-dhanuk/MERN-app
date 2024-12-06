@@ -19,8 +19,8 @@ Authentication: Google OAuth, JWT
 <h3>Live view</h3>
 <b>Link</b> https://coding-nepal.onrender.com
 
-<br> For Admin Panel 
-Email:admin@gmail.com 
+<br> For Admin Panel<br> 
+Email: admin@gmail.com 
 <br>
-Password:admin
+Password: admin
 <br> 
